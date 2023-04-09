@@ -1,0 +1,48 @@
+html {
+  position: relative;
+}
+
+body {
+  margin-bottom: 100px;
+}
+
+.jumbotron {
+  background-color: #f7f1e5;
+}
+
+.jumbotron img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid #e7b10a;
+}
+
+hr {
+  border-top: 3px solid #e7b10a;
+}
+
+section {
+  min-height: 600px;
+}
+
+.portofolio {
+  background-color: #f7f1e5;
+}
+
+.kontak {
+  min-height: 800px;
+}
+
+footer {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  bottom: 0;
+  background-color: #f7f1e5;
+}
+
+footer p {
+  font-size: 0.9em;
+  color: #aaa;
+  padding-top: 10px;
+}
